@@ -4,7 +4,7 @@
 <p> </p>тел. +7 (921) 018-48-19 </p>
 <a href="mailto:rcc.avm@gmail.com">email: rcc.avm@gmail.com</a>
 
-<h1 align="center"><img src="https://rcc-avm.github.io/portfolio/A2.png"height="86"/></h1>
+<h1 align="center"><img src="https://rcc-avm.github.io/portfolio/A2.png" height="86"/></h1>
 <h3 align="center">не очень старого физика и не очень молодого дата саентиста 🇷🇺</h3>
 
 <h4 align="left">

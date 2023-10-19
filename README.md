@@ -21,7 +21,6 @@
 <li>Работа с MS Excel, MS Access с использованием VBA</li>
 <li>Работа с SQL (функции, подзапросы, хранимые процедуры)</li>
 <li>Анализ данных в Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn, Tensorflow/Keras, Pytorch, OpenCV, NLTK, spaCy  etc.)</li>
-<li>Применение в работе ключевых математических методов и основ статистики</li>
 <li>ETL  и предобработка данных</li>
 <li>EDA и Feature engineering</li>
 <li>Построение, оптимизация и ансамблирование моделей обучения</li>

@@ -9,6 +9,7 @@
 
 <h4 align="left">
   О чем свидетельствует <a href="https://rcc-avm.github.io/portfolio/tb1.html">трудовая биография</a>
+  и <a href="https://rcc-avm.github.io/portfolio/rez1.html">резюме</a>
 </h4>
 
 <h4 align="left">

@@ -48,6 +48,11 @@
 Курсы, тренинги:
 <br>
 <br>
+<p>2024 Нетология<br>
+ курс «курс «Deep Learning»<br>
+ <a href="https://netology.ru/programs/deep-learning#/about_netology">(программа курса по ссылке).</a><br>
+В настоящее время прохожу обучение.</p> 
+<br>
 <p>2023 Нетология<br>
  курс «Машинное обучение: фундаментальные инструменты и практики»<br>
  <a href="https://netology.ru/programs/machine-learn?utm_source=advcake&utm_medium=cpa&utm_campaign=cityads&utm_content=Y6Ljx9&utm_term=8QTZ20taFpZjqht&stop=1#/main_features">(программа курса по ссылке)</a><br>
